@@ -29,7 +29,9 @@ Lade dir das Skript (z. B. als poe_flask_manager.ahk) herunter oder kopiere den 
 Pfad anpassen: Öffne die .ahk-Datei mit einem Editor (z. B. Notepad++) und passe ganz oben den Pfad zu deiner Client.txt an:
 
 AutoHotkey
+
 ```global LogPath := "C:\Program Files (x86)\Steam\steamapps\common\Path of Exile\logs\Client.txt"```
+
 (Falls du den Standalone-Client nutzt, gib dort den Pfad zu deinem Installationsordner an).
 
 Starte das Skript per Doppelklick (falls Path of Exile als Administrator läuft, starte das Skript ebenfalls per Rechtsklick als Administrator).

@@ -35,6 +35,3 @@ AutoHotkey
 (Falls du den Standalone-Client nutzt, gib dort den Pfad zu deinem Installationsordner an).
 
 Starte das Skript per Doppelklick (falls Path of Exile als Administrator läuft, starte das Skript ebenfalls per Rechtsklick als Administrator).
-
-🖥️ Quellcode (poe_flask_manager.ahk)
-Füge diesen Code in deine Skriptdatei ein:
